@@ -43,6 +43,7 @@ To develop this solution, we will use different technologies such as programming
 ## Feasibility and Viability
 
 The idea is practical and can be implemented with the available resources and technology. However, there may be some challenges during development, such as technical difficulties or limited resources. These challenges can be solved through testing, research, and teamwork to improve the system and make it work effectively.
+<img src="https://github.com/saitamamogi-alt/SIH-25009/blob/main/best-game-based-learning-platforms-for-kids.jpg">
 
 ## Impact and Benefits
 
