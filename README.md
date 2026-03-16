@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 16-03-2026
+## Reference Number: 25018268
+## Name: Moogethshivan G G
 
 ## Problem Title
 SIH 25009: Gamified Environmental Education Platform for Schools and Colleges
@@ -33,27 +33,19 @@ Smart Education
 </ul>
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+
+Our solution is to create a system that helps solve the given problem in a simple and effective way. The idea focuses on improving the current situation by using technology and better methods. This solution is designed to be practical and easy to use. It also introduces a new approach that makes the process faster and more efficient.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+
+To develop this solution, we will use different technologies such as programming languages, frameworks, and possibly hardware if required. The development process will follow a step-by-step method. First, we will design the system flow, then create flowcharts or diagrams to explain the working. After that, we will build a working prototype to test and improve the system.
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+
+The idea is practical and can be implemented with the available resources and technology. However, there may be some challenges during development, such as technical difficulties or limited resources. These challenges can be solved through testing, research, and teamwork to improve the system and make it work effectively.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+
+This solution can help the target users by making their work easier and more efficient. It may also provide social, economic, or environmental benefits depending on how it is used. Overall, the project aims to create a positive impact and provide a useful solution to the problem.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
